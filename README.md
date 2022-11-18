@@ -1,6 +1,6 @@
 # Smart_Buffer_Stock_Solution
 
-This system is made as a solution to one of the problem statements (VM742) in the Smart India Hackathon 2022 and is aimed to suppliment the growing investments of the Indian Government towards Buffer Stocks in India. This system monitors the amount of capacity used in given Buffer Stocks at various locations on a dashboard. It also provides a rough estimate of the weight of the stocked food.
+This system is made to increase the suppliment growing investments of the Indian Government towards Buffer Stocks in India. This system monitors the amount of capacity used in given Buffer Stocks at various locations on a dashboard. It also provides a rough estimate of the weight of the stocked food.
 
 ## Description:
 - Each buffer stock location must be equipped with a microcontroller such as an ESP32 along with an internet connection. The logic of the microcontroller can be found in main_Logic.ino.
