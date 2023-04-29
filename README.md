@@ -15,7 +15,7 @@ This system is made to increase the suppliment growing investments of the Indian
 - HC-SR04 Ultrasonic Distance Sensor(s)
 - RGB LED(s)
 - A Wi-Fi Connection
-- A 3.3V Power Supply
+- A 3.3V Power Supply 
 
 ## Images:
 
